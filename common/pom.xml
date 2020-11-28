@@ -47,7 +47,7 @@
        <!--引入model-->
         <dependency>
             <groupId>com.atguigu.gmall</groupId>
-            <artifactId>mdoel</artifactId>
+            <artifactId>model</artifactId>
             <version>1.0</version>
         </dependency>
     </dependencies>
