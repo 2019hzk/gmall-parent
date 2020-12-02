@@ -10,7 +10,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>web</artifactId>
+    <packaging>pom</packaging>
     <description>继承service_util</description>
+    <modules>
+        <module>web_all</module>
+    </modules>
     <dependencies>
         <dependency>
             <groupId>com.atguigu.gmall</groupId>
